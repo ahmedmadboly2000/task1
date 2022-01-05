@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1640456882 source:c:\users\elhandasia\desktop\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"queue.h"
+	"global.h"
+
+1636997849 source:c:\users\elhandasia\desktop\stack\stack.c
+	"stack.h"
+	"global.h"
+
+1636997897 c:\users\elhandasia\desktop\stack\stack.h
+	"global.h"
+
+1640457450 source:c:\users\elhandasia\desktop\stack\queue.c
+	"queue.h"
+	"global.h"
+
+1640455542 c:\users\elhandasia\desktop\stack\queue.h
+	"global.h"
+
+1636997849 c:\users\elhandasia\desktop\stack\global.h
+
